@@ -3,13 +3,9 @@
 🎯 Currently exploring **React Ecosystem** and **Frontend Optimization**.<br/>
 👩🏻‍🎓 Graduated with a **Bachelors in Computer Applications (BCA)** from *Kathmandu Model College*.<br/>
 
----
-
-## 🧠 Currently Learning
-- React.js and Next.js ⚡  
+## ⚡ Currently Learning
+- React.js and Next.js   
 - Redux Toolkit 
-
----
 
 ## 💻 Tech Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,34 +18,24 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
----
-
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0Shraddha&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
----
+![](https://github-readme-stats.vercel.app/api?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
 ## 🏗️ Featured Projects
 ☕ [**Nepali Coffee Website**](https://github.com/0Shraddha/nepali-coffee-website)  
 A beautifully designed landing page for a Nepali coffee brand, built using ReactJs.<br/>
-🌐 **Live Demo:** [nepalicoffee.netlify.app](https://ournepalicoffee.com)
+🌐 **Live Demo:** [ournepalicoffee](https://ournepalicoffee.com)
 
 🎯 [**Blood Bank Management System**](https://github.com/0Shraddha/blood-bank-system)  
 A web app built using ReactJs to manage blood donors, requests, and inventories.  
-
----
 
 ## ✨ Fun Facts
 - 🌸 I love designing clean UI and matching colors with purpose.  
 - 🧶 When I’m not coding, I’m probably crocheting something cute.  
 - 📔 Journaling keeps me mindful and helps me track my personal and professional growth.  
 
----
-
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shraddha-dongol/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shraddhadongol59@gmail.com)
-
----
