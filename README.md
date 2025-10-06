@@ -20,18 +20,18 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-<br/>
+<br/><br/>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=0Shraddha&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=0Shraddha&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 
 ## 🏗️ Featured Projects
 ☕ [**Nepali Coffee Website**](https://github.com/0Shraddha/nepali-coffee-website)  
-A beautifully designed landing page for a Nepali coffee brand, built using ReactJs.<br/>
-🌐 **Live Demo:** [ournepalicoffee](https://ournepalicoffee.com)
+A beautifully designed landing page for a Nepali coffee brand, built using NextJs.<br/>
+🌐 **Live Demo:** [Our Nepali Coffee](https://ournepalicoffee.com)
 
 🎯 [**Blood Bank Management System**](https://github.com/0Shraddha/blood-bank-system)  
 A web app built using ReactJs to manage blood donors, requests, and inventories.  
