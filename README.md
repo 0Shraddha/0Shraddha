@@ -29,11 +29,11 @@
 <br/>
 
 ## 🏗️ Featured Projects
-✈️ [**SV Holidays Website**] (https://github.com/0Shraddha/SVholidaysWebsite.git)
+✈️ [**SV Holidays Website**](https://github.com/0Shraddha/SVholidaysWebsite.git)
 A travel and tour website designed to showcase travel packages and destinations based in Thailand, currently supporting customer inquiries and bookings through WhatsApp integration.<br/>
 🌐 **Live Demo:** [SV Holidays](https://thesvholidays.com)
 
-🍽️ [**RestroNet – Restaurant Recommendation System**] (https://github.com/0Shraddha/restroNet-Frontend.git) 
+🍽️ [**RestroNet – Restaurant Recommendation System**](https://github.com/0Shraddha/restroNet-Frontend.git) 
 A restaurant recommendation platform built using React.js and Node.js that helps users discover restaurants based on preferences, ratings, and personalized recommendations.<br/>
 
 ☕ [**Nepali Coffee Website**](https://github.com/0Shraddha/nepali-coffee-website)  
